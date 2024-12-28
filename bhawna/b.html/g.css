@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box sizing: border-box;
+}
+.container{
+    height: 100vh;
+    border:2px solid rebeccapurple;
+
+}
+
+.box{
+    border: 2px solid red;
+    width: 40px;
+    height: 35px;
+    margin- top: 50px;
+    margin top: 50px:
+    /* outline property */
+    /* outline- style: double;
+    outline- color:  blue;
+    outline-width: 10px;
+    outline-offset: 5px;*/
+
+    outline: 5px double green;
+    outline offset: 2px;
+    background image: ur1(c:\Users\kodvidya\Pictures\download (5).jpg)
+    background image

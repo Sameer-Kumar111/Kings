@@ -1,0 +1,36 @@
+/* text-align: ;
+text-align-last: ;
+direction: ;
+unicode-bidi: ; */
+
+
+/* text-decoration-line: ;
+text-decoration-color: ;
+text-decoration-style: ;
+text-decoration-thickness: ;
+text-decoration: ; */
+
+.head{
+    text-align: center;
+    /* direction: rtl;
+    unicode-bidi: bidi-override; */
+    color: blue;
+
+    /* text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: darkgreen;
+    text-decoration-thickness: 5px; */
+    text-decoration: underline wavy green 2px;
+
+
+    text-shadow: 10px -10px 5px green;
+
+}
+.text-1{
+    text-align: justify;
+    text-align-last: center;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+    line-height: 40px;
+    white-space: nowrap;
+}
