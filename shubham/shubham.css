@@ -1,0 +1,79 @@
+*{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+}
+.container{
+width: 100vw;
+height: 100vh;
+border: 3px solid black;
+display: flex;
+flex-direction: column;
+
+
+}
+
+
+
+.work{
+width: 100vw;
+height: 50px;
+background-color: blue;
+
+}
+.progrees{
+background-color: black;
+height: 50px;
+width: 100vw;
+}
+
+ .inprogress{
+
+    background-color: rgb(236, 7, 7);
+    height: 50px;
+    width: 100vw;
+    display: flex;
+
+ }
+ @media screen and(max-width:450px){
+    body{
+background-color: rgba(0, 0, 0, 0.76);
+font-size: 10px;
+
+    }
+
+
+ }
+ @media screen and(min-width:320px){
+    body{
+background-color: rgb(221, 207, 5);
+
+font-size: 40px;
+text-align: center;
+
+    }
+
+
+ }
+ .ambappe{
+   background-color: brown;
+   height: 70vh;
+   width: 100vw;
+   text-align: center;
+   text-size-adjust: 100px;
+ }
+ /* #shubham{
+      height: 100px;
+      width: 100px; */
+
+ 
+ button{
+   background-color: rgb(161, 0, 0);
+   color: rgb(236, 225, 225);
+   height: 50px;
+   width: 50px;
+ }
+ .usbhaius{
+   display: flex;
+   justify-content: space-between;
+ }

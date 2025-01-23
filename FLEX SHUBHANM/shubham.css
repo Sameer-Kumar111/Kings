@@ -1,0 +1,121 @@
+*{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+
+}
+#container{
+    height: 100vh;
+    width: 100vw;
+    border: 2px solid black;
+}
+#main{
+/* border: 2px solid red; */
+/* height: 80vh; */
+/* width: 90vw; */
+display: flex;
+justify-content: space-evenly;
+
+}
+#box2{
+display: flex;
+/* display: table-column; */
+/* align-items: center; */
+/* justify-content: space-around; */
+gap: 300px;
+}
+#box3{
+display: flex;
+justify-content: space-between;
+
+}
+.box{
+    background-color: rgb(48, 4, 131);
+    height: 70px;
+    width: 70px;
+}
+.box1{
+    background-color: rgb(11, 241, 3);
+    height: 70px;
+    width: 70px;
+}
+.box2{
+    background-color: rgb(239, 243, 5);
+    height: 70px;
+    width: 70px;
+}
+.box3{
+    background-color: rgb(20, 44, 151);
+    height: 70px;
+    width: 70px;
+}
+.box4{
+    background-color: rgb(146, 7, 151);
+    height: 70px;
+    width: 70px;
+}
+.box5{
+    background-color: rgb(0, 0, 0);
+    height: 70px;
+    width: 70px;
+}
+.box6{
+    background-color: rgb(27, 3, 94);
+    height: 70px;
+    width: 70px;
+}
+.box7{
+    background-color: rgba(5, 0, 0, 0.726);
+    height: 70px;
+    width: 70px;
+}
+.box8{
+    background-color: rgb(140, 219, 140);
+    height: 70px;
+    width: 70px;
+}
+.box9{
+    background-color: rgb(255, 72, 0);
+    height: 70px;
+    width: 70px;
+}
+.box10{
+    background-color: rgb(4, 27, 49);
+    height: 70px;
+    width: 70px;
+}
+.box11{
+    background-color: rgb(9, 161, 30);
+    height: 70px;
+    width: 70px;
+}
+.box12{
+    background-color: aqua;
+    height: 70px;
+    width: 70px;
+}
+.box13{
+    background-color: rgb(201, 0, 0);
+    height: 70px;
+    width: 70px;
+}
+.box14{
+    background-color: rgb(248, 0, 153);
+    height: 70px;
+    width: 70px;
+}
+.box15{
+    background-color: rgb(37, 223, 0);
+    height: 70px;
+    width: 70px;
+}
+.box16{
+    background-color: rgb(248, 190, 0);
+    height: 70px;
+    width: 70px;
+}
+.box17{
+    background-color: rgb(129, 7, 7);
+    height: 70px;
+    width: 70px;
+}
